@@ -1,0 +1,19 @@
+{
+  "name": "google-01",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "azure-storage": "2.5.0",
+    "browser-pug": "^0.1.0",
+    "express": "3.4.8",
+    "npm": "^6.0.0",
+    "pug": "2.0.0-alpha6",
+    "jquery": "^3.3.1",
+    "request": "^2.85.0",
+    "googleapis": "^32.0.0",
+    "documentdb": "^1.14.4"
+  }
+}
